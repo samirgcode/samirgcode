@@ -18,28 +18,6 @@ I'm a passionate software developer with a keen interest in building awesome app
 - Native Android
 - Native IOS framework
 
-## Projects
-
-### Project 1
-
-Brief description of Project 1 and its features.
-
-- [GitHub Repository](https://github.com/samirgc/project1)
-- [Live Demo](https://www.project1demo.com)
-
-### Project 2
-
-Brief description of Project 2 and its features.
-
-- [GitHub Repository](https://github.com/samirgc/project2)
-- [Live Demo](https://www.project2demo.com)
-
-## Blog
-
-I occasionally write about my experiences and insights in the tech industry. Check out my latest blog posts:
-
-- [Blog Post 1](https://www.yourblog.com/post1)
-- [Blog Post 2](https://www.yourblog.com/post2)
 
 ## GitHub Stats
 
