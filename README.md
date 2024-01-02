@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 # Hi there, I'm Samir Gc! 👋
 
 ## About Me
@@ -52,5 +51,3 @@ Feel free to reach out if you want to collaborate, discuss tech, or just chat! �
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/samirgc?style=social)](https://twitter.com/samirgc)
 
-
--->
